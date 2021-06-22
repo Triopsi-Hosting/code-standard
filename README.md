@@ -31,7 +31,7 @@ The Triopsi Hosting Coding Standards require PHP 5.4 or higher and [PHP_CodeSnif
 
         phpcs --config-set installed_paths /path/to/thcs
 
-   **Pro-tip:** Alternatively, you can tell PHP_CodeSniffer the path to the WordPress standards by adding the following snippet to your custom ruleset:
+   **Pro-tip:** Alternatively, you can tell PHP_CodeSniffer the path to the Triopsi standards by adding the following snippet to your custom ruleset:
    ```xml
    <config name="installed_paths" value="/path/to/thcs" />
    ```
