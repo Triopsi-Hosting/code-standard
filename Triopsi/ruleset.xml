@@ -3,25 +3,6 @@
 
 	<description>Triopsi Code Standard</description>
 
-	<!-- Exclude folders and files from being checked. -->
-	<exclude-pattern>/bin/*</exclude-pattern>
-	<exclude-pattern>/config/*</exclude-pattern>
-	<exclude-pattern>/logs/*</exclude-pattern>
-	<exclude-pattern>/resources/*</exclude-pattern>
-	<exclude-pattern>/tests/*</exclude-pattern>
-	<exclude-pattern>/tmp/*</exclude-pattern>
-	<exclude-pattern>/webroot/*</exclude-pattern>
-	<exclude-pattern>/tesmplates/*</exclude-pattern>
-
-	<!-- Exclude the Composer Vendor directory. -->
-	<exclude-pattern>/vendor/*</exclude-pattern>
-
-	<!-- Exclude the Node Modules directory. -->
-	<exclude-pattern>/node_modules/*</exclude-pattern>
-
-	<!-- Exclude minified Javascript files. -->
-	<exclude-pattern>*.min.js</exclude-pattern>
-
 	<rule ref="Generic.Files.LineLength">
         <properties>
             <property name="lineLimit" value="220"/>
