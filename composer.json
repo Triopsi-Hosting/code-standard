@@ -1,7 +1,7 @@
 {
     "name": "triopsi/triopsics",
     "description": "Triopsi Code Standard for phpcs.",
-    "type": "metapackage",
+    "type": "phpcodesniffer-standard",
     "license": "GPLv3",
     "authors": [
         {
