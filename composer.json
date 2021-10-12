@@ -1,0 +1,14 @@
+{
+    "name": "triopsi/code-standard",
+    "description": "Triopsi Code Standard for phpcs.",
+    "type": "metapackage",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "Triopsi Hosting",
+            "email": "info@triopsi.com"
+        }
+    ],
+	"minimum-stability": "dev",
+    "require": {}
+}
