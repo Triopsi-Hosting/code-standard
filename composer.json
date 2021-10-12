@@ -1,5 +1,5 @@
 {
-    "name": "triopsi/TriopsiCS",
+    "name": "triopsi/triopsics",
     "description": "Triopsi Code Standard for phpcs.",
     "type": "metapackage",
     "license": "GPLv3",
